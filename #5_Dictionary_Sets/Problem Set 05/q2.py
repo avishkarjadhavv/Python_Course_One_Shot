@@ -1,0 +1,21 @@
+set1 = set()
+
+a = int(input("Enter the number : "))
+set1.add(a)
+b = int(input("Enter the number : "))
+set1.add(b)
+c = int(input("Enter the number : "))
+set1.add(c)
+d = int(input("Enter the number : "))
+set1.add(d)
+e = int(input("Enter the number : "))
+set1.add(e)
+f = int(input("Enter the number : "))
+set1.add(f)
+g = int(input("Enter the number : "))
+set1.add(g)
+h = int(input("Enter the number : "))
+set1.add(h)
+
+
+print("values without repeating : ", set1)
